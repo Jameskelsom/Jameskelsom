@@ -1,0 +1,5 @@
+- 👋 Olá, sou @Jameskelsom
+- 👀 Estou interssado em NodeJS, ReactJS e Python
+- 🌱 Atualmente estou aprendendo ReactJS
+- 💞️ Estou procurando colaborar em projetos profissionais
+- 📫 Contato: https://www.linkedin.com/in/jameskelsom/
